@@ -1,0 +1,49 @@
+#first {
+    width: 250px;
+    height: 50px;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+h4 {
+    padding-top: 10px;
+}
+
+.item1,
+.item2,
+.item3,
+.item4 {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#incdecbtn {
+    height: 54%;
+    margin-top: 36%;
+    margin-right: 4px;
+    margin-bottom: 19%;
+}
+
+#num {
+    margin-top: 27%;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#incdec {
+    display: inline-flex;
+    margin-left: 39%;
+}
+
+#cart {
+    width: 285px;
+    height: 300px;
+    background-color: blue;
+    text-align: center;
+}
+
+#products {
+    width: 285px;
+    height: 300px;
+}
